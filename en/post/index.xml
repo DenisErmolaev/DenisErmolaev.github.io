@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Ermovaev Denis</title>
+    <link>https://DenisErmolaev.github.io/en/post/</link>
+      <atom:link href="https://DenisErmolaev.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DenisErmolaev.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://DenisErmolaev.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Week 4</title>
+      <link>https://DenisErmolaev.github.io/en/post/04/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://DenisErmolaev.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-4-june-1521&#34;&gt;🗓️ Week 4: June 15–21&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;🏃 Physical Education and Course Completion&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Passed the credit for physical education:
+&lt;ul&gt;
+&lt;li&gt;Completed standards for a 1000-meter run and pull-ups.&lt;/li&gt;
+&lt;li&gt;Also submitted a written assignment on the theory of physical education.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finished lab assignments for programming and logic courses.&lt;/li&gt;
+&lt;li&gt;Submitted final reports and received credit for all subjects without any pending work.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 3</title>
+      <link>https://DenisErmolaev.github.io/en/post/03/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://DenisErmolaev.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-3-june-814&#34;&gt;🗓️ Week 3: June 8–14&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;📘 Mathematical Analysis Exam&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The exam tasks included:
+&lt;ul&gt;
+&lt;li&gt;Finding limits of functions and sequences;&lt;/li&gt;
+&lt;li&gt;Differentiating complex expressions;&lt;/li&gt;
+&lt;li&gt;Calculating integrals, including improper ones;&lt;/li&gt;
+&lt;li&gt;Analyzing convergence of functional series and uniform convergence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The most challenging part was proving uniform convergence on a given interval.&lt;/li&gt;
+&lt;li&gt;Result: exam successfully passed, most problems were solved correctly.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 2</title>
+      <link>https://DenisErmolaev.github.io/en/post/02/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://DenisErmolaev.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-2-june-17&#34;&gt;🗓️ Week 2: June 1–7&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;🧠 Logic Credit and Math Analysis Preparation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Passed the credit assessment in mathematical logic:
+&lt;ul&gt;
+&lt;li&gt;Topics included logical formulas, truth tables, logical implications, and proof techniques.&lt;/li&gt;
+&lt;li&gt;Special emphasis was placed on proofs using resolution and natural deduction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Started intensive preparation for the upcoming exam in mathematical analysis:
+&lt;ul&gt;
+&lt;li&gt;Reviewed definitions of limits by Cauchy and Heine, derivatives, and L&amp;rsquo;Hôpital&amp;rsquo;s rule.&lt;/li&gt;
+&lt;li&gt;Solved problems involving convergence of numerical and functional sequences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://DenisErmolaev.github.io/en/post/01/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://DenisErmolaev.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-1-may-2531&#34;&gt;🗓️ Week 1: May 25–31&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;🔧 Programming Exam&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Completed the final exam for the &amp;ldquo;Introduction to Programming&amp;rdquo; course (Python).&lt;/li&gt;
+&lt;li&gt;Topics covered: loops, functions, recursion, file handling.&lt;/li&gt;
+&lt;li&gt;Tasks included: implementing a depth-first search algorithm, sorting, reading from files, and generating reports.&lt;/li&gt;
+&lt;li&gt;Notable challenge: one of the tasks required building a function call tree.&lt;/li&gt;
+&lt;li&gt;Takeaway: it&amp;rsquo;s important not only to write working code, but also to ensure readability and efficiency.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

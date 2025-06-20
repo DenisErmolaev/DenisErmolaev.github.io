@@ -1,39 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wowchemy | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/wowchemy/</link>
-      <atom:link href="https://example.com/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <title>Wowchemy | Ермолаев Денис</title>
+    <link>https://DenisErmolaev.github.io/tags/wowchemy/</link>
+      <atom:link href="https://DenisErmolaev.github.io/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
     <description>Wowchemy</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://DenisErmolaev.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Wowchemy</title>
-      <link>https://example.com/tags/wowchemy/</link>
+      <link>https://DenisErmolaev.github.io/tags/wowchemy/</link>
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://example.com/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://example.com/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://example.com/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Персональный сайт научного работника на Hugo Academic</title>
+      <link>https://DenisErmolaev.github.io/project/hugo/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://DenisErmolaev.github.io/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-персональный-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Персональный сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Создание персонального сайта на базе &lt;strong&gt;Hugo Academic&lt;/strong&gt; — это эффективный способ представить свои научные достижения, исследовательские интересы и профессиональную биографию в современном и структурированном виде.&lt;/p&gt;
+&lt;h3 id=&#34;-зачем-это-нужно&#34;&gt;🔎 Зачем это нужно?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Позволяет систематизировать информацию о публикациях, проектах и преподавательской деятельности.&lt;/li&gt;
+&lt;li&gt;Упрощает коммуникацию с научным сообществом — можно добавить форму обратной связи, список конференций, прикрепить презентации и статьи.&lt;/li&gt;
+&lt;li&gt;Помогает сформировать профессиональный цифровой образ, особенно полезный для международных коллабораций и участия в грантах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-что-такое-hugo-academic&#34;&gt;⚙️ Что такое Hugo Academic?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — это статический генератор сайтов на Go, известный своей скоростью и гибкостью.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academic&lt;/strong&gt; — это тема (шаблон), созданная специально для научных работников и преподавателей.&lt;/li&gt;
+&lt;li&gt;Сайт работает быстро, не требует серверной части и легко деплоится через GitHub Pages, Netlify или Cloudflare Pages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-что-можно-разместить-на-сайте&#34;&gt;🛠 Что можно разместить на сайте?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Биография&lt;/strong&gt;: фото, должность, контактные данные, академическая степень.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Публикации&lt;/strong&gt;: с BibTeX-ссылками, DOI и ссылками на полные тексты.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Проекты&lt;/strong&gt;: описание НИР, прикреплённые презентации, отчёты, постеры.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Курсы&lt;/strong&gt;: информация о преподаваемых дисциплинах, расписание и материалы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Блог&lt;/strong&gt;: статьи, заметки, аналитика — всё, что дополняет академический образ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-как-начать&#34;&gt;🚀 Как начать?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Установить Hugo и скачать шаблон Academic.&lt;/li&gt;
+&lt;li&gt;Настроить &lt;code&gt;config/_default/config.yaml&lt;/code&gt; под свои данные.&lt;/li&gt;
+&lt;li&gt;Наполнить сайт контентом: создать разделы &lt;code&gt;content/publication&lt;/code&gt;, &lt;code&gt;content/project&lt;/code&gt;, &lt;code&gt;content/post&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Залить сайт на GitHub и настроить автоматический деплой через Netlify.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;-преимущества&#34;&gt;✅ Преимущества:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Поддержка Markdown, LaTeX и BibTeX.&lt;/li&gt;
+&lt;li&gt;Удобная фильтрация по тегам, категориям, типам публикаций.&lt;/li&gt;
+&lt;li&gt;Адаптивный дизайн, подходящий для мобильных устройств.&lt;/li&gt;
+&lt;li&gt;Расширяемость: можно добавить Google Analytics, формы, календарь и даже блог-подписку.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Персональный сайт — это не просто визитка. Это рабочее пространство, отражающее научную активность и развитие. Hugo Academic — удобный и мощный инструмент, чтобы сделать это грамотно и красиво.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

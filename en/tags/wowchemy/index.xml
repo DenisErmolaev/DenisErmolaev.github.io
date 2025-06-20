@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wowchemy | Ermovaev Denis</title>
+    <link>https://DenisErmolaev.github.io/en/tags/wowchemy/</link>
+      <atom:link href="https://DenisErmolaev.github.io/en/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wowchemy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DenisErmolaev.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Wowchemy</title>
+      <link>https://DenisErmolaev.github.io/en/tags/wowchemy/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://DenisErmolaev.github.io/en/project/hugo/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://DenisErmolaev.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-personal-academic-website-with-hugo-academic&#34;&gt;🌐 Personal Academic Website with Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Creating a personal academic website using &lt;strong&gt;Hugo Academic&lt;/strong&gt; is an effective way to present your research achievements, interests, and professional background in a modern and well-structured format.&lt;/p&gt;
+&lt;h3 id=&#34;-why-is-it-important&#34;&gt;🔎 Why is it important?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Helps organize and showcase publications, projects, and teaching activities.&lt;/li&gt;
+&lt;li&gt;Facilitates communication with the academic community — you can add contact forms, conference lists, presentations, and articles.&lt;/li&gt;
+&lt;li&gt;Builds a professional digital presence — especially valuable for international collaboration and grant applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-what-is-hugo-academic&#34;&gt;⚙️ What is Hugo Academic?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; is a fast and flexible static site generator written in Go.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a theme designed specifically for researchers and lecturers.&lt;/li&gt;
+&lt;li&gt;The site is lightweight, doesn’t require a server, and can be deployed easily via GitHub Pages, Netlify, or Cloudflare Pages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-what-can-you-include-on-your-site&#34;&gt;🛠 What can you include on your site?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Biography&lt;/strong&gt;: profile photo, position, contact information, academic title.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt;: with BibTeX entries, DOIs, and links to full texts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: research descriptions, attached presentations, reports, posters.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Courses&lt;/strong&gt;: details about courses taught, schedules, and materials.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt;: posts, notes, and analysis — all enhancing your academic persona.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-how-to-get-started&#34;&gt;🚀 How to get started?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo and download the Academic theme.&lt;/li&gt;
+&lt;li&gt;Configure &lt;code&gt;config/_default/config.yaml&lt;/code&gt; with your personal data.&lt;/li&gt;
+&lt;li&gt;Populate the site with content: add &lt;code&gt;content/publication&lt;/code&gt;, &lt;code&gt;content/project&lt;/code&gt;, &lt;code&gt;content/post&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Push the site to GitHub and set up automatic deployment using Netlify.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;-benefits&#34;&gt;✅ Benefits:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Supports Markdown, LaTeX, and BibTeX.&lt;/li&gt;
+&lt;li&gt;Smart filtering by tags, categories, and publication types.&lt;/li&gt;
+&lt;li&gt;Responsive design suitable for all devices.&lt;/li&gt;
+&lt;li&gt;Highly customizable: you can add Google Analytics, contact forms, calendars, and blog subscriptions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;A personal academic website is more than a digital business card — it’s a platform to reflect your research, growth, and academic journey. Hugo Academic provides a powerful and elegant solution to do just that.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
